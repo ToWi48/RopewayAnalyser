@@ -1,0 +1,17 @@
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\bin\Debug\net6.0-windows\RopewayAnalyser.exe
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\bin\Debug\net6.0-windows\RopewayAnalyser.deps.json
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\bin\Debug\net6.0-windows\RopewayAnalyser.runtimeconfig.json
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\bin\Debug\net6.0-windows\RopewayAnalyser.dll
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\bin\Debug\net6.0-windows\RopewayAnalyser.pdb
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.csproj.AssemblyReference.cache
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.Form1.resources
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.csproj.GenerateResource.cache
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.AssemblyInfoInputs.cache
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.AssemblyInfo.cs
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.dll
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\refint\RopewayAnalyser.dll
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.pdb
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\RopewayAnalyser.genruntimeconfig.cache
+C:\Users\tomwi\source\repos\RopewayAnalyser\RopewayAnalyser\obj\Debug\net6.0-windows\ref\RopewayAnalyser.dll
